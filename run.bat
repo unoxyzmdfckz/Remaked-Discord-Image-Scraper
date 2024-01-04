@@ -1,9 +1,6 @@
 @echo off
 title Discord Image Scraper
 :top
-node scrape.js
-pause
-cls
-node post.js
+node index.js
 pause
 exit

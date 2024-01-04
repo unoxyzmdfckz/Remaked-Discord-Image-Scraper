@@ -1,6 +1,9 @@
 {
     "token": "",
-    "fetchChanel_id": "",
+
+    "channel_id_to_fetch": "",
+
     "webHook_id": "",
+
     "webHook_token": ""
 }
