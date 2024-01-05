@@ -2,6 +2,10 @@
 # Original Repo: [7Teen](https://github.com/17teen/Discord-Image-Scraper)
 
 ![](https://cdn.discordapp.com/attachments/1141642174681862224/1192369344806653972/image.png?ex=65a8d37c&is=65965e7c&hm=1af761ad8f0dc90eea539e41895b018e2b1713e1219b2c1555b7344a5e58dee2&)
+----------
+**Contact Me**
+
+﹒**[Discord Server](https://discord.gg/b56FE3QcuS)** 
 
 **Tutorial: [SOON]**
 **Leave A Star thanks**
@@ -27,8 +31,3 @@
 
 Run the `run.bat` file.
 
-----------
-**Contact Me**
-
-﹒[Discord](https://discord.com/users/1186166180168343674) 
-﹒**Discord: grahgrahpoww** 
